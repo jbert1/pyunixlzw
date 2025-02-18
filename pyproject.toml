@@ -25,6 +25,9 @@ version = "1.0.0.0"
 [project.scripts]
 pyunixlzw = "pyunixlzw.__main__:main"
 
+[project.urls]
+Repository = "https://github.com/jbert1/pyunixlzw"
+
 [project.optional-dependencies]
 tests = [
     "unittest"

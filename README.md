@@ -2,7 +2,7 @@
 **pyunixlzw** is a "pure" python3 implementation of the Unix compress/uncompress tool.
 
 ## Usage
-pyunixlzw comes with access to both a module and a script that serves as a semi-replacement for `ncompress`.
+pyunixlzw comes with access to both a module and a script that serves as a semi-replacement for `(N)compress`.
 
 ### Module
 ```python
